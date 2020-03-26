@@ -40,7 +40,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/lyvia/PROJET_EPI_2019/WEB/WEB_epytodo_2019"
+VIRTUAL_ENV="/home/lyvia/PROJET_EPI_2019/WEB/final/WEB_epytodo_2019"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
