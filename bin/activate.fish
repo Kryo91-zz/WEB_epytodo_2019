@@ -36,7 +36,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/lyvia/PROJET_EPI_2019/WEB/final/WEB_epytodo_2019"
+set -gx VIRTUAL_ENV "/home/lyvia/PROJET_EPI_2019/WEB/WEB_epytodo_2019"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
